@@ -1,0 +1,9 @@
+{
+  "orch:alice": [
+    "https://www.googleapis.com/auth/documents",
+    "https://www.googleapis.com/auth/gmail.modify"
+  ],
+  "svc:gateway": [
+    "https://www.googleapis.com/auth/cloud-platform"
+  ]
+}
